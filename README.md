@@ -7,10 +7,11 @@ The goal of this analysis is to use visualizations to show the relationship betw
 -	The average fare per ride is $10 more in rural cities and $4 more in suburban areas than urban cities. 
 -	Average fare per driver is roughly $40 more in rural areas and $23 more in suburban cities than urban areas. 
 
+![Summary_table](https://user-images.githubusercontent.com/92958091/143796079-33f4fd05-2fec-43db-8896-f0f8cc5b074a.png)
+![Final_Analysis](https://user-images.githubusercontent.com/92958091/143796078-de499b30-cffd-418d-91c0-e4e7549ef6ca.png)
+
 #### Summary: 
 -	There is a significant shortage of drivers in rural areas and as a result, rides are more expensive than their respective counterpart city types. This could be a source of disparity in the accessibility of rides in rural cities. Add incentives (bonus or tips) for these areas so that drivers go into rural areas to complete rides. 
 -	Urban cities are the greatest source of revenue for the ride-sharing company probably due to a high demand for ride-sharing apps. Increasing the price of fares to a reasonably amount would benefit the company. 
 -	Recommendations are to study the relationship between fares and distance as well as population to analyze how these factors play into the ride sharing business. Ask what proportions of residents of each city type use the ride sharing app.  
-
-
 
